@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/digital-clock-bt-reactjs/static/css/main.82471237.css",
+    "main.js": "/digital-clock-bt-reactjs/static/js/main.800b1615.js",
+    "static/media/cartoon.png": "/digital-clock-bt-reactjs/static/media/cartoon.54f744a5fffefaf7d56b.png",
+    "index.html": "/digital-clock-bt-reactjs/index.html",
+    "main.82471237.css.map": "/digital-clock-bt-reactjs/static/css/main.82471237.css.map",
+    "main.800b1615.js.map": "/digital-clock-bt-reactjs/static/js/main.800b1615.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82471237.css",
+    "static/js/main.800b1615.js"
+  ]
+}
